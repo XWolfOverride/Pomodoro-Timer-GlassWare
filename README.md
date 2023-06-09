@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/xwolfoverride?style=social)](https://twitter.com/xwolfoverride)
 
 > Para compilar es necesario usar gradle.
-> Para ejecutar se necesita el modo desarrollo.s
+> Para ejecutar se necesita el modo desarrollo.
 
 ## Modo de uso:
 
@@ -14,12 +14,12 @@
 - Al acabarse el tramo actual se oirá una melodía y se continuará con el siguiente tramo:
 
 ## Tramos Pomodoro:
-  - Contador de *25* minutos en modo actividad
-  - Contador de *5* minutos para pausa
-  - Contador de *25* minutos en modo actividad
-  - Contador de *5* minutos para pausa
-  - Contador de *25* minutos en modo actividad
-  - Contador de *15* minutos para pausa
+  - Contador de **25** minutos en modo actividad
+  - Contador de **5** minutos para pausa
+  - Contador de **25** minutos en modo actividad
+  - Contador de **5** minutos para pausa
+  - Contador de **25** minutos en modo actividad
+  - Contador de **15** minutos para pausa
 
 ## Notas:
  - Generar versión:
