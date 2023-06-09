@@ -98,8 +98,8 @@ public final class PomodoroService extends GlassLiveCard {
 
     private void initPomodoro(boolean asPause, boolean sound, boolean wake) {
         if (asPause)
-            pauseCount++;
-        setTime(asPause ? (pauseCount % 3 == 0 ? 5 : 15) : 25, asPause);
+            pauseCount = (pauseCount + 1) % 3;
+        setTime(asPause ? (pauseCount == 0 ? 5 : 15) : 25, asPause);
         if (sound)
             audio.playSound(asPause ? rSoundPause : rSoundActivity);
         if (wake) {
