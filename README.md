@@ -29,8 +29,8 @@
  - Desinstalar
    - `adb uninstall es.xwolf.android.glass.pomodoro`
 
-## media
-Sonidos sacados de pixabay.com
-Tomate de [www.svgrepo.com](https://www.svgrepo.com/svg/4433/tomato) y modificado
+## Media
+- Sonidos sacados de pixabay.com
+- Tomate de [www.svgrepo.com](https://www.svgrepo.com/svg/4433/tomato) y modificado
 
 The application is in spanish. If you want to translate it to other language you can change easy the texts inside src/main/res/values/strings.xml
